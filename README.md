@@ -7,6 +7,8 @@ This repo implements RandLANet with pretrained weights, on point cloud aerial li
 
 [GeoAI custom dataset Link](https://www.kaggle.com/datasets/sriramm932/tera-baap-tera13231)
 
+[GeoAI original dataset Link](https://www.kaggle.com/datasets/sriramm932/tera-baap-tera13231)
+
 [Problem statement - Theme 2](https://github.com/sriram936/GeoAI/blob/main/National_Geo-AI_Hackathon__1.pdf?raw=true)
 
 [Our Approach](https://github.com/sriram936/GeoAI/blob/main/Aerial%20GeoAI1.pdf?raw=true)
